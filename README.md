@@ -38,6 +38,12 @@
 <a href="https://linkedin.com/in/oscar-viudez-cuevas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar-viudez-cuevas" height="30" width="40" /></a>
 </p>
 
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0sc4r24/0sc4r24/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/0sc4r24/0sc4r24/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</picture>
+
 <div align="center">
   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=0:104600,50:007700,100:10f561&textBg=false&reversal=false&section=footer />
 </div>
