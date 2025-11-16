@@ -33,12 +33,12 @@
 
 <br></br>
 
-<h3 align="right">Contact me:</h3>
-<p align="right">
+<h3 align="left">Contact me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/oscar-viudez-cuevas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar-viudez-cuevas" height="30" width="40" /></a>
 </p>
 
-## 🐍 Contribution Snake
+<h2 align="center"> 🐍 Contribution Snake </h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0sc4r24/0sc4r24/output/github-contribution-grid-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/0sc4r24/0sc4r24/output/github-contribution-grid-snake.svg" alt="snake animation" />
