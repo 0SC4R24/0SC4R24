@@ -29,7 +29,7 @@
 
 <br></br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=0sc4r24&show_icons=true&locale=en&theme=transparent" alt="0sc4r24" /></p>
+<p><img align="center" src="https://github-readme-stats-eight-olive-96.vercel.app/api?username=0sc4r24&show_icons=true&locale=en&theme=transparent" alt="0sc4r24" /></p>
 
 <br></br>
 
