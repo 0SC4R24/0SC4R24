@@ -2,7 +2,7 @@
   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=150&color=0:104600,50:007700,100:10f561&textBg=false&reversal=false />
 </div>
 
-<h1 align="center">Hi , I'm Oscar Viudez Cuevas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Oscar Viudez Cuevas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36F771&center=true&vCenter=true&width=435&lines=Software+Engineer;Computer+Graphics+Enthusiast" alt="Typing SVG" />
