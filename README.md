@@ -40,11 +40,10 @@
 
 <br></br>
 
-<h2 align="left"> 🐍 Contribution Snake </h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0sc4r24/0sc4r24/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/0sc4r24/0sc4r24/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</picture>
+<h2 align="left"> 👾 Contributions </h2>
+<div align="center">
+  <img width=100% src=https://github.com/0SC4R24/0SC4R24/blob/main/game.gif />
+</div>
 
 <div align="center">
   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=0:104600,50:007700,100:10f561&textBg=false&reversal=false&section=footer />
